@@ -1,0 +1,22 @@
+{
+  "name": "less-plugin-inject-variables",
+  "version": "0.0.1",
+  "description": "LESS plugin to programatically inject variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeslikejaggars/less-plugin-inject-variables.git"
+  },
+  "keywords": [
+    "LESS",
+    "Plugin"
+  ],
+  "author": "Nick Jaggars",
+  "bugs": {
+    "url": "https://github.com/codeslikejaggars/less-plugin-inject-variables/issues"
+  },
+  "homepage": "https://github.com/codeslikejaggars/less-plugin-inject-variables#readme"
+}
